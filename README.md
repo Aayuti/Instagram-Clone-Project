@@ -1,2 +1,2 @@
 # Web-Development-Projects
-Using html, css, JavaScript
+Instagram Login page clone and Home page clone using html, css, JavaScript
